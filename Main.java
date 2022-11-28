@@ -22,7 +22,7 @@ public class Main {
         }//code worked
 
 
-    }
+    
 
         Replace r = new Replace();
         r.setword(10);
@@ -31,9 +31,9 @@ public class Main {
         System.out.println(r.getletter());
         r.setnum('a');
         System.out.println(r.getnum());
-
         System.out.println(r.sent.length());
         charReplace(sent,2,T)
+    }
 
     // Adlibs p1 = new Adlibs();{
     // System.out.println("hi my name is"+p1.name+" my age is" +p1.num+ "my favorit
